@@ -1,6 +1,6 @@
 # Flask Face Api App
 
-Flask-Face-Api App is a Flask application that utilizes the Face-API.js library which uses TensorFlow.js to detect emotions on faces in real-time using the camera input. This application allows you to perform facial emotion detection locally, reducing compute resource consumption by leveraging the power of TensorFlow.js and integrating it with Flask using websockets. This is an ideal app to be used on devices with very low computational capabiities
+Flask-Face-Api App is a Flask application that utilizes the Face-API.js library which uses TensorFlow.js to detect emotions on faces in real-time using the camera input. This application allows you to perform facial emotion detection locally, reducing compute resource consumption by leveraging the power of TensorFlow.js and integrating it with Flask using websockets. This is an ideal app to be used on devices with very low computational capabilities.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -42,7 +42,7 @@ To use the Flask Face Api application, follow these steps:
 
 1. Start the Flask server by running the following command:
     ```bash
-    python app.py
+    python application.py
     ```
 
 2. Once the server is running, open your web browser and navigate to `http://localhost:5000`.
